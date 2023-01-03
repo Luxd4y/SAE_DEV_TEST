@@ -6,3 +6,5 @@ game.Run();
 //uaaaaa lux
 //uauauaua  bas
 //doaih
+//uauauaua  bas
+///rgkzbgzbgorjg
